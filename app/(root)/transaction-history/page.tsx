@@ -1,7 +1,7 @@
 import React from "react";
 
-const page = () => {
+const TransactionHistory = () => {
   return <div>Transaction History</div>;
 };
 
-export default page;
+export default TransactionHistory;
